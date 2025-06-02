@@ -1,9 +1,6 @@
 # 프로젝트 기반 프리랜서 개발자 중개 플랫폼 
-여기 소개글
 
-# 🎥 프로젝트 시연영상
 
-[프로젝트 시연영상 링크] 변경필요
 <br/>
 [프로젝트 PPT]https://www.canva.com/design/DAGm7UhNL1Q/J-85BA3XQeJ8cKC9Ggf1mw/edit?utm_content=DAGm7UhNL1Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
@@ -53,10 +50,9 @@
 ## 💻 개발환경
 - **Version** : Java 17
 - **IDE** : IntelliJ
-- **BackEnd** : ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) 
-- **FrontEnd** :  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+- **BackEnd** : ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) , Spring
+- **FrontEnd** :  flutter, React
+  
 - **협업도구** : <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 
@@ -95,5 +91,3 @@
 
 
  
-## ✒️ API
-- **API 명세서** : 여기 회의후 확인
